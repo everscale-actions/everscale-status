@@ -5,7 +5,7 @@
     "slug": "freeton-org",
     "status": "up",
     "uptime": "100.00",
-    "time": 574
+    "time": 553
   },
   {
     "name": "Wiki",
@@ -13,14 +13,14 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 3558
+    "time": 3519
   },
   {
     "name": "Docs",
     "url": "http://docs.ton.dev",
     "slug": "docs",
     "status": "down",
-    "uptime": "-65.85",
-    "time": 622
+    "uptime": "-99.89",
+    "time": 673
   }
 ]
