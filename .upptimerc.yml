@@ -5,11 +5,19 @@ repo: freeton-upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: freeton.org
-    url: https://freeton.org/
+    url: https://freeton.org
   - name: Wiki
     url: https://freeton.wiki
   - name: Docs
     url: http://docs.ton.dev
+  - name: Forum
+    url: https://forum.freeton.org
+  - name: main.ton.dev
+    url: http://main.ton.dev
+  - name: net.ton.dev
+    url: http://net.ton.dev
+  - name: Ton Live
+    url: https://ton.live/main    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
