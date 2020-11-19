@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "freeton.org",
+    "url": "https://freeton.org/",
+    "slug": "freeton-org",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 574
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Wiki",
+    "url": "https://freeton.wiki",
+    "slug": "wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 3558
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 339
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Docs",
+    "url": "http://docs.ton.dev",
+    "slug": "docs",
     "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
+    "uptime": "-61.76",
+    "time": 622
   }
 ]
