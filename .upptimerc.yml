@@ -30,7 +30,7 @@ status-website:
   introMessage: This is a status page which provide status of Free TON ecosystem
   navbar:
     - title: Status
-      href: /
+      href: /freeton-status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
