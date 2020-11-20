@@ -27,6 +27,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /freeton-status
+  logoHref: https://ton-actions.github.io/freeton-status
   logoUrl: https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png
   name: Free TON Status
   introTitle: "Free TON resources monitioring"
