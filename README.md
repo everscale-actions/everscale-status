@@ -23,5 +23,5 @@ This repository contains the open-source uptime monitor and status page for Free
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Alexander Salamatov](https://ton-actions.github.io/freeton-status)
+- Code: [MIT](./LICENSE) © [Ton Actions](https://ton-actions.github.io/freeton-status)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
