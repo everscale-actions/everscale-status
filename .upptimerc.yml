@@ -10,6 +10,9 @@ sites:
     url: https://freeton.wiki
   - name: Docs
     url: http://docs.ton.dev
+    expectedStatusCodes:
+      - 200
+      - 406    
   - name: Forum
     url: https://forum.freeton.org
   - name: main.ton.dev
