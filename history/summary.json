@@ -5,7 +5,7 @@
     "slug": "freeton-org",
     "status": "up",
     "uptime": "100.00",
-    "time": 563
+    "time": 588
   },
   {
     "name": "Wiki",
@@ -13,7 +13,7 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 3654
+    "time": 3630
   },
   {
     "name": "Docs",
@@ -21,7 +21,7 @@
     "slug": "docs",
     "status": "up",
     "uptime": "100.00",
-    "time": 1165
+    "time": 1123
   },
   {
     "name": "Forum",
@@ -29,7 +29,7 @@
     "slug": "forum",
     "status": "up",
     "uptime": "100.00",
-    "time": 634
+    "time": 631
   },
   {
     "name": "main.ton.dev",
@@ -37,7 +37,7 @@
     "slug": "main-ton-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 651
+    "time": 645
   },
   {
     "name": "net.ton.dev",
@@ -45,7 +45,7 @@
     "slug": "net-ton-dev",
     "status": "up",
     "uptime": "100.00",
-    "time": 629
+    "time": 619
   },
   {
     "name": "Ton Live",
@@ -53,6 +53,6 @@
     "slug": "ton-live",
     "status": "up",
     "uptime": "100.00",
-    "time": 147
+    "time": 144
   }
 ]
