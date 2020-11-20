@@ -20,7 +20,9 @@ sites:
   - name: net.ton.dev
     url: http://net.ton.dev
   - name: Ton Live
-    url: https://ton.live/main    
+    url: https://ton.live/main
+  - name: sdkbinaries-ws.tonlabs.io
+    url: http://sdkbinaries-ws.tonlabs.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
