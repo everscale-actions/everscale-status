@@ -15,12 +15,16 @@ sites:
       - 406    
   - name: Forum
     url: https://forum.freeton.org
+  - name: Governance
+    url: https://gov.freeton.org
   - name: main.ton.dev
     url: http://main.ton.dev
   - name: net.ton.dev
     url: http://net.ton.dev
   - name: Ton Live
-    url: https://ton.live/main
+    url: https://ton.live
+  - name: sdkbinaries-ws.tonlabs.io
+    url: http://sdkbinaries-ws.tonlabs.io
   - name: sdkbinaries-ws.tonlabs.io
     url: http://sdkbinaries-ws.tonlabs.io
 
