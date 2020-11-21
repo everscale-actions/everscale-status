@@ -25,8 +25,6 @@ sites:
     url: https://ton.live
   - name: sdkbinaries-ws.tonlabs.io
     url: http://sdkbinaries-ws.tonlabs.io
-  - name: sdkbinaries-ws.tonlabs.io
-    url: http://sdkbinaries-ws.tonlabs.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
