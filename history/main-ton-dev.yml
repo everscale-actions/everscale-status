@@ -1,7 +1,7 @@
-- url: http://main.ton.dev
-- status: up
-- code: 200
-- responseTime: 501
-- lastUpdated: 2020-11-21T23:09:47.433Z
-- startTime: 2020-11-19T20:54:15.377Z
-- generator: Upptime <https://github.com/upptime/upptime>
+url: http://main.ton.dev  
+status: up
+code: 200
+responseTime: 593
+lastUpdated: 2020-11-22T23:09:35.788Z
+startTime: Thu Nov 19 2020 20:54:15 GMT+0000 (Coordinated Universal Time)
+generator: Upptime <https://github.com/upptime/upptime>
