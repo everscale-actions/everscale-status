@@ -20,7 +20,7 @@
     "url": "http://docs.ton.dev",
     "slug": "docs",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "time": 947
   },
   {
@@ -51,9 +51,9 @@
     "name": "net.ton.dev",
     "url": "http://net.ton.dev",
     "slug": "net-ton-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "98.89%",
-    "time": 524
+    "time": 506
   },
   {
     "name": "Ton Live",
