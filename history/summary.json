@@ -5,7 +5,7 @@
     "slug": "freeton-org",
     "status": "up",
     "uptime": "100.00%",
-    "time": 552
+    "time": 551
   },
   {
     "name": "Wiki",
@@ -13,15 +13,15 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00%",
-    "time": 3594
+    "time": 3580
   },
   {
     "name": "Docs",
     "url": "http://docs.ton.dev",
     "slug": "docs",
     "status": "up",
-    "uptime": "96.21%",
-    "time": 965
+    "uptime": "96.55%",
+    "time": 947
   },
   {
     "name": "Forum",
@@ -37,7 +37,7 @@
     "slug": "governance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 321
+    "time": 352
   },
   {
     "name": "main.ton.dev",
@@ -45,15 +45,15 @@
     "slug": "main-ton-dev",
     "status": "up",
     "uptime": "100.00%",
-    "time": 607
+    "time": 606
   },
   {
     "name": "net.ton.dev",
     "url": "http://net.ton.dev",
     "slug": "net-ton-dev",
     "status": "up",
-    "uptime": "99.30%",
-    "time": 559
+    "uptime": "99.37%",
+    "time": 558
   },
   {
     "name": "Ton Live",
@@ -61,7 +61,7 @@
     "slug": "ton-live",
     "status": "up",
     "uptime": "100.00%",
-    "time": 169
+    "time": 188
   },
   {
     "name": "sdkbinaries-ws.tonlabs.io",
@@ -69,6 +69,6 @@
     "slug": "sdkbinaries-ws-tonlabs-io",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1133
+    "time": 1091
   }
 ]
