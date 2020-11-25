@@ -3,9 +3,9 @@
     "name": "freeton.org",
     "url": "https://freeton.org",
     "slug": "freeton-org",
-    "status": "up",
-    "uptime": "99.89%",
-    "time": 532
+    "status": "down",
+    "uptime": "99.88%",
+    "time": 513
   },
   {
     "name": "Wiki",
@@ -20,7 +20,7 @@
     "url": "http://docs.ton.dev",
     "slug": "docs",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "time": 919
   },
   {
