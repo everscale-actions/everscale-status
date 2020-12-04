@@ -4,16 +4,16 @@
     "url": "https://freeton.org",
     "slug": "freeton-org",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 710,
-    "timeDay": 622,
-    "timeWeek": 496,
-    "timeMonth": 710,
-    "timeYear": 710
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 711,
+    "timeDay": 745,
+    "timeWeek": 544,
+    "timeMonth": 711,
+    "timeYear": 711
   },
   {
     "name": "Wiki",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3610,
-    "timeDay": 4128,
-    "timeWeek": 3742,
-    "timeMonth": 3610,
-    "timeYear": 3610
+    "time": 3633,
+    "timeDay": 4405,
+    "timeWeek": 3842,
+    "timeMonth": 3633,
+    "timeYear": 3633
   },
   {
     "name": "Docs",
     "url": "http://docs.ton.dev",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "99.16%",
-    "time": 853,
-    "timeDay": 577,
-    "timeWeek": 650,
-    "timeMonth": 853,
-    "timeYear": 853
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 858,
+    "timeDay": 1031,
+    "timeWeek": 708,
+    "timeMonth": 858,
+    "timeYear": 858
   },
   {
     "name": "Forum",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 584,
-    "timeWeek": 644,
-    "timeMonth": 607,
-    "timeYear": 607
+    "time": 619,
+    "timeDay": 981,
+    "timeWeek": 695,
+    "timeMonth": 619,
+    "timeYear": 619
   },
   {
     "name": "Governance",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 441,
-    "timeWeek": 522,
-    "timeMonth": 448,
-    "timeYear": 448
+    "time": 456,
+    "timeDay": 570,
+    "timeWeek": 545,
+    "timeMonth": 456,
+    "timeYear": 456
   },
   {
     "name": "main.ton.dev",
@@ -89,27 +89,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 591,
-    "timeWeek": 604,
-    "timeMonth": 603,
-    "timeYear": 603
+    "time": 612,
+    "timeDay": 889,
+    "timeWeek": 644,
+    "timeMonth": 612,
+    "timeYear": 612
   },
   {
     "name": "net.ton.dev",
     "url": "http://net.ton.dev",
     "slug": "net-ton-dev",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
-    "time": 605,
-    "timeDay": 604,
-    "timeWeek": 615,
-    "timeMonth": 605,
-    "timeYear": 605
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 613,
+    "timeDay": 892,
+    "timeWeek": 658,
+    "timeMonth": 613,
+    "timeYear": 613
   },
   {
     "name": "Ton Live",
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 423,
-    "timeWeek": 419,
-    "timeMonth": 267,
-    "timeYear": 267
+    "time": 274,
+    "timeDay": 476,
+    "timeWeek": 435,
+    "timeMonth": 274,
+    "timeYear": 274
   },
   {
     "name": "sdkbinaries-ws.tonlabs.io",
@@ -137,10 +137,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 846,
-    "timeWeek": 942,
-    "timeMonth": 952,
-    "timeYear": 952
+    "time": 965,
+    "timeDay": 1218,
+    "timeWeek": 993,
+    "timeMonth": 965,
+    "timeYear": 965
   }
 ]
