@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 617,
     "timeDay": 454,
-    "timeWeek": 562,
+    "timeWeek": 527,
     "timeMonth": 542,
     "timeYear": 617,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 3788,
     "timeDay": 4833,
-    "timeWeek": 4051,
+    "timeWeek": 4129,
     "timeMonth": 3913,
     "timeYear": 3788,
     "dailyMinutesDown": {}
@@ -51,7 +51,7 @@
     "uptimeYear": "99.84%",
     "time": 753,
     "timeDay": 1015,
-    "timeWeek": 799,
+    "timeWeek": 826,
     "timeMonth": 707,
     "timeYear": 753,
     "dailyMinutesDown": {
@@ -71,7 +71,7 @@
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 909,
-    "timeWeek": 737,
+    "timeWeek": 773,
     "timeMonth": 641,
     "timeYear": 621,
     "dailyMinutesDown": {}
@@ -81,19 +81,19 @@
     "url": "https://gov.freeton.org",
     "icon": "https://favicons.githubusercontent.com/gov.freeton.org",
     "slug": "governance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 795,
-    "timeWeek": 538,
-    "timeMonth": 531,
-    "timeYear": 491,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 490,
+    "timeDay": 615,
+    "timeWeek": 537,
+    "timeMonth": 528,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2021-01-27": 0
+      "2021-01-27": 22
     }
   },
   {
@@ -109,7 +109,7 @@
     "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 903,
-    "timeWeek": 724,
+    "timeWeek": 743,
     "timeMonth": 665,
     "timeYear": 634,
     "dailyMinutesDown": {}
@@ -127,7 +127,7 @@
     "uptimeYear": "99.70%",
     "time": 626,
     "timeDay": 909,
-    "timeWeek": 714,
+    "timeWeek": 737,
     "timeMonth": 666,
     "timeYear": 626,
     "dailyMinutesDown": {
@@ -153,7 +153,7 @@
     "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 515,
-    "timeWeek": 481,
+    "timeWeek": 483,
     "timeMonth": 509,
     "timeYear": 404,
     "dailyMinutesDown": {}
@@ -171,7 +171,7 @@
     "uptimeYear": "100.00%",
     "time": 916,
     "timeDay": 892,
-    "timeWeek": 894,
+    "timeWeek": 922,
     "timeMonth": 898,
     "timeYear": 916,
     "dailyMinutesDown": {}
