@@ -64,19 +64,19 @@
     "url": "https://forum.freeton.org",
     "icon": "https://favicons.githubusercontent.com/forum.freeton.org",
     "slug": "forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 621,
-    "timeDay": 611,
-    "timeWeek": 629,
-    "timeMonth": 651,
+    "timeDay": 584,
+    "timeWeek": 620,
+    "timeMonth": 648,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2021-02-05": 0
+      "2021-02-05": 13
     }
   },
   {
