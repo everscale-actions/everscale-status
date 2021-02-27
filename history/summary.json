@@ -26,19 +26,19 @@
     "url": "https://freeton.wiki",
     "icon": "https://favicons.githubusercontent.com/freeton.wiki",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3860,
-    "timeDay": 3422,
-    "timeWeek": 4940,
-    "timeMonth": 4096,
-    "timeYear": 3860,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 3984,
+    "timeDay": 11140,
+    "timeWeek": 6679,
+    "timeMonth": 4558,
+    "timeYear": 3984,
     "dailyMinutesDown": {
-      "2021-02-27": 0
+      "2021-02-27": 20
     }
   },
   {
