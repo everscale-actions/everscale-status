@@ -47,9 +47,9 @@
     "url": "http://docs.ton.dev",
     "icon": "https://favicons.githubusercontent.com/docs.ton.dev",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -59,6 +59,7 @@
     "timeMonth": 708,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2021-06-17": 0,
       "2020-11-19": 158
     }
   },
