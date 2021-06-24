@@ -110,19 +110,19 @@
     "url": "http://main.ton.dev",
     "icon": "https://favicons.githubusercontent.com/main.ton.dev",
     "slug": "main-ton-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 876,
-    "timeWeek": 686,
-    "timeMonth": 657,
-    "timeYear": 655,
+    "time": 654,
+    "timeDay": 692,
+    "timeWeek": 663,
+    "timeMonth": 652,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2021-06-24": 0
+      "2021-06-24": 13
     }
   },
   {
