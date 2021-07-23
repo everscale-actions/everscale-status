@@ -4,9 +4,9 @@
     "url": "https://freeton.org",
     "icon": "https://favicons.githubusercontent.com/freeton.org",
     "slug": "freeton-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 606,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2021-07-23": 0,
       "2021-01-30": 22,
       "2020-12-04": 31,
       "2020-11-25": 11
@@ -133,7 +134,7 @@
     "slug": "net-ton-dev",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "48.21%",
+    "uptimeDay": "61.47%",
     "uptimeWeek": "92.60%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.70%",
