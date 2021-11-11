@@ -1,6 +1,6 @@
 # Change these first
 owner: ton-actions # Your GitHub username
-repo: freeton-status # Your Github repository name
+repo: everscale-status # Your Github repository name
 
 # Add your sites here
 sites:
@@ -30,12 +30,12 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /freeton-status
-  logoHref: https://ton-actions.github.io/freeton-status
+  baseUrl: /everscale-status
+  logoHref: https://ton-actions.github.io/everscale-status
   logoUrl: https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png
-  name: Free TON Status
-  introTitle: "Free TON status"
-  introMessage: This is a status page which provide status of Free TON ecosystem
+  name: Everscale Status
+  introTitle: "Everscale status"
+  introMessage: This is a status page which provide status of Everscale ecosystem
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
