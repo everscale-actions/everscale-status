@@ -20,7 +20,7 @@ This repository contains the open-source uptime monitor and status page for Free
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://everscale-actions.github.io/freeton-status)
+[**Visit our status website →**](https://everscale-actions.github.io/everscale-status)
 
 ## 📄 License
 
