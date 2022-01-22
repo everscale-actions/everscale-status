@@ -1,4 +1,4 @@
-# [📈 Live Status](https://everscale-actions.github.io/freeton-status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://everscale-actions.github.io/everscale-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for Free TON
 
