@@ -1,5 +1,5 @@
 # Change these first
-owner: ton-actions # Your GitHub username
+owner: everscale-actions # Your GitHub username
 repo: everscale-status # Your Github repository name
 
 # Add your sites here
@@ -31,7 +31,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /everscale-status
-  logoHref: https://ton-actions.github.io/everscale-status
+  logoHref: https://everscale-actions.github.io/everscale-status
   logoUrl: https://ton-manifest-dev.firebaseapp.com/assets/create.09f2308a21898c8d.png
   name: Everscale Status
   introTitle: "Everscale status"
