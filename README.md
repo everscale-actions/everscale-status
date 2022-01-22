@@ -1,4 +1,4 @@
-# [📈 Live Status](https://ton-actions.github.io/freeton-status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://everscale-actions.github.io/freeton-status): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for Free TON
 
@@ -24,5 +24,5 @@ This repository contains the open-source uptime monitor and status page for Free
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Ton Actions](https://github.com/ton-actions)
+- Code: [MIT](./LICENSE) © [Everscale Actions](https://github.com/everscale-actions)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
