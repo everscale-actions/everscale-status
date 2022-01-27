@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/freeton.org",
     "slug": "freeton-org",
     "status": "up",
-    "uptime": "83.99%",
+    "uptime": "84.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
@@ -121,9 +121,9 @@
     "url": "http://docs.ton.dev",
     "icon": "https://favicons.githubusercontent.com/docs.ton.dev",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -133,6 +133,7 @@
     "timeMonth": 733,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-06-17": 35
     }
   },
